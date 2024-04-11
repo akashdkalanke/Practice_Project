@@ -1,0 +1,20 @@
+
+„
+java:S2139"XEither log this exception and handle it, or rethrow it with some contextual information.(”ύΎHς,RMAJORZ
+CODE_SMELL
+U
+java:S1452("&Remove usage of generic wildcard type.(ήΨ’·Hυ,RCRITICALZ
+CODE_SMELL
+„
+java:S2139="XEither log this exception and handle it, or rethrow it with some contextual information.(”ύΎHφ,RMAJORZ
+CODE_SMELL
+„
+java:S2139K"XEither log this exception and handle it, or rethrow it with some contextual information.(”ύΎHω,RMAJORZ
+CODE_SMELL
+r
+java:S4684S"@Replace this persistent entity with a simple POJO or DTO object.(εΰκίHό,RCRITICALZVULNERABILITY
+w
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(•«ε―ύÿÿÿÿHύ,RCRITICALZVULNERABILITY
+„
+java:S2139W"XEither log this exception and handle it, or rethrow it with some contextual information.(”ύΎHώ,RMAJORZ
+CODE_SMELL

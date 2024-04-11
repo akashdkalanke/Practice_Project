@@ -1,0 +1,8 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(İß‡üÿÿÿÿ8Û”ûµ0Hæ+RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ìæŞôúÿÿÿÿ8Û”ûµ0Hå+RMAJORZ
+CODE_SMELL
+T
+java:S1643	"Use a StringBuilder instead.(³Ó»•øÿÿÿÿ8Û”ûµ0Hä+RMINORZ
+CODE_SMELL

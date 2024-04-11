@@ -1,0 +1,26 @@
+
+d	java:S106!"9Replace this use of System.out or System.err by a logger.(µˆœÑHþRMAJORZ
+CODE_SMELL
+d	java:S106 "9Replace this use of System.out or System.err by a logger.(àÑÃ•HÿRMAJORZ
+CODE_SMELL
+q
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(­á¯ÜüÿÿÿÿH€RMINORZ
+CODE_SMELL
+q
+java:S1612#"@Replace this lambda with method reference 'System.out::println'.(àºÿµüÿÿÿÿH‚RMINORZ
+CODE_SMELL
+l
+java:S1612 "@Replace this lambda with method reference 'System.out::println'.(àÑÃ•H„RMINORZ
+CODE_SMELL
+l	java:S125"<This block of commented-out lines of code should be removed.(„©ž²ýÿÿÿÿH†RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ØïžùH‡RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(Ô‹êŒùÿÿÿÿHˆRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢ÔùÿÿÿÿH‰RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(­á¯ÜüÿÿÿÿHŠRMAJORZ
+CODE_SMELL
+i	java:S106#"9Replace this use of System.out or System.err by a logger.(àºÿµüÿÿÿÿH‹RMAJORZ
+CODE_SMELL

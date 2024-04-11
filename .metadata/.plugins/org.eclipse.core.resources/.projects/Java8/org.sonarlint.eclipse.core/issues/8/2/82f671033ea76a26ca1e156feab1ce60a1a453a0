@@ -1,0 +1,27 @@
+
+d	java:S106#"9Replace this use of System.out or System.err by a logger.(аСГ•HЦRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ЪѕЏ¬ыяяяяHЧRMAJORZ
+CODE_SMELL
+q
+java:S1612$"@Replace this lambda with method reference 'System.out::println'.(№ЇШѓяяяяяHШRMINORZ
+CODE_SMELL
+i	java:S106$"9Replace this use of System.out or System.err by a logger.(№ЇШѓяяяяяHЪRMAJORZ
+CODE_SMELL
+v
+java:S3973"GUse indentation to denote the code conditionally executed by this "if".(сџ›—HЫRCRITICALZ
+CODE_SMELL
+l
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(УЭЪбHЭRMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(УЭЪбHЯRMAJORZ
+CODE_SMELL
+c	java:S106"9Replace this use of System.out or System.err by a logger.(ѓЪбBHаRMAJORZ
+CODE_SMELL
+d	java:S106""9Replace this use of System.out or System.err by a logger.(иЏУ“HбRMAJORZ
+CODE_SMELL
+l
+java:S1612#"@Replace this lambda with method reference 'System.out::println'.(аСГ•HвRMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(Ф™ЏНяяяяяHдRMAJORZ
+CODE_SMELL

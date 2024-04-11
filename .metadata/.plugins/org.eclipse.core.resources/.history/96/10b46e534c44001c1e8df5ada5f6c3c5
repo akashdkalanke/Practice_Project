@@ -1,0 +1,8 @@
+2021-11-13 12:06:38 [restartedMain] INFO  com.yash.UserMangementApplication -
+				Starting UserMangementApplication using Java 17.0.1 on YPH1013582LT with PID 36312 (C:\Users\Akash.kalanke\eclipse-workspace\UserMangement\target\classes started by akash.kalanke in C:\Users\Akash.kalanke\eclipse-workspace\UserMangement)
+2021-11-13 12:06:38 [restartedMain] INFO  com.yash.UserMangementApplication -
+				No active profile set, falling back to default profiles: default
+2021-11-13 12:06:41 [restartedMain] INFO  com.yash.UserMangementApplication -
+				Started UserMangementApplication in 3.937 seconds (JVM running for 4.847)
+2021-11-13 12:07:06 [http-nio-8080-exec-1] ERROR c.y.u.controller.BaseController -
+				welcome To getall

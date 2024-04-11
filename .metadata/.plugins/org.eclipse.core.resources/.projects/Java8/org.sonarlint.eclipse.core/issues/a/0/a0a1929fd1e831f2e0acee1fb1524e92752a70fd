@@ -1,0 +1,6 @@
+
+ƒ
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ÜüêæøÿÿÿÿHöRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(÷ðåŸH÷RMAJORZ
+CODE_SMELL

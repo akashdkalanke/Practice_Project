@@ -1,0 +1,7 @@
+
+j
+java:S1854"7Remove this useless assignment to local variable "str".(²È¯Â8¢âÚüµ0Hð+RMAJORZ
+CODE_SMELL
+[
+java:S1481"(Remove this unused "str" local variable.(²È¯Â8¢âÚüµ0Hñ+RMINORZ
+CODE_SMELL

@@ -1,0 +1,36 @@
+2021-11-12 15:34:35 [restartedMain] INFO  com.yash.UserMangementApplication -
+				Starting UserMangementApplication using Java 17.0.1 on YPH1013582LT with PID 22180 (C:\Users\Akash.kalanke\eclipse-workspace\UserMangement\target\classes started by akash.kalanke in C:\Users\Akash.kalanke\eclipse-workspace\UserMangement)
+2021-11-12 15:34:35 [restartedMain] INFO  com.yash.UserMangementApplication -
+				No active profile set, falling back to default profiles: default
+2021-11-12 15:34:35 [restartedMain] INFO  com.yash.UserMangementApplication -
+				Started UserMangementApplication in 0.563 seconds (JVM running for 175.274)
+2021-11-316 16:11:50 [restartedMain] ERROR o.s.b.d.LoggingFailureAnalysisReporter -
+				
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+ 
+2021-11-316 16:50:48 [restartedMain] ERROR o.s.b.d.LoggingFailureAnalysisReporter -
+				
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+ 
